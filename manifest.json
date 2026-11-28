@@ -1,11 +1,11 @@
 {
  "schemaVersion": 1,
- "version": "202611271554",
- "generatedAt": "2026-11-27T15:54:18+00:00",
+ "version": "202611280055",
+ "generatedAt": "2026-11-28T00:55:04+00:00",
  "files": {
   "news.json": {
-   "sha256": "b2a4bb30c6092f30a283ef1904369e6f84aefcd83d8e95d64eab6632f3ec2fe1",
-   "size": 26487,
+   "sha256": "187b74049d5878280246d6ed2eec21bcedd277b99a6e9ea5919a4d27cf6aa464",
+   "size": 26989,
    "items": 60
   }
  }
